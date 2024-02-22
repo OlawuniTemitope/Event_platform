@@ -14,10 +14,10 @@ function Footer() {
           width={128}
           height={38}/>
         </Link>
-        <p>{new Date().getFullYear()} Evently. All rights reserved.</p>
+        <p>{new Date().getFullYear()} Evently. All changed rights reserved.</p>
       </div>
     </footer>
   )
 }
 
-export default Footer
+export default Footer 
