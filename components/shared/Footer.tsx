@@ -14,7 +14,7 @@ function Footer() {
           width={128}
           height={38}/>
         </Link>
-        <p>{new Date().getFullYear()} Evently. added now All changed rights reserved.</p>
+        <p>{new Date().getFullYear()} Evently. just webhook All changed rights reserved.</p>
       </div>
     </footer>
   )
