@@ -1,10 +1,8 @@
 import { SignUp } from "@clerk/nextjs"
 
-
-
-function page() {
+function SignUpPage() {
   return (<SignUp/>
   )
 }
 
-export default page
+export default SignUpPage
